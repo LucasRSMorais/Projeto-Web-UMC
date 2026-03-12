@@ -5,4 +5,5 @@ O desenvolvimento ocorreu no primeiro semestre de 2025.
 Tecnologias Utilizadas:
   HTML
   PHP
+  SQL
   JavaScript
