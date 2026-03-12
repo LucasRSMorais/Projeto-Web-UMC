@@ -1,2 +1,8 @@
 # Projeto-Web-UMC
-Projeto web desenvolvido com HTML, PHP, SQL e JavaScript como parte da avaliação da disciplina Programação de Software (3º semestre de Sistemas de Informação)
+Este repositório contém um projeto desenvolvido como parte da metodologia de avaliação da disciplina de Software Básico, durante o 3º semestre do curso de Sistemas de Informação. 
+O desenvolvimento ocorreu no primeiro semestre de 2025.
+
+Tecnologias Utilizadas:
+  HTML
+  PHP
+  JavaScript
